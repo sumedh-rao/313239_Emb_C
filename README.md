@@ -6,7 +6,5 @@
 
 
 
-Embedded Training LTTS
-# Embedded C Case Study
-Seat Heating System
+
 -----------------
